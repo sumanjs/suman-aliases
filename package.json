@@ -1,0 +1,25 @@
+{
+  "name": "suman-aliases",
+  "version": "1.0.0",
+  "description": "Stores different package aliases for Suman projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "suman test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanjs/suman-aliases.git"
+  },
+  "keywords": [
+    "suman",
+    "sumanjs",
+    "test",
+    "testing"
+  ],
+  "author": "Olegzandr VD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumanjs/suman-aliases/issues"
+  },
+  "homepage": "https://github.com/sumanjs/suman-aliases#readme"
+}
